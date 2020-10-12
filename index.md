@@ -9,6 +9,7 @@ My name is Robert Yamasaki, I am currently a first year software engineering stu
 - github tutorial pls (using terminal on mac and such)
 - How big projects are split down to make things more efficient
 
+.
 
 
 
