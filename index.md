@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[Link](https://www.rit.edu/computing/department-software-engineering)
+[/rit se website](https://www.rit.edu/computing/department-software-engineering)
 You can use the [editor on GitHub](https://github.com/rhy2781/pagestest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 
