@@ -1,9 +1,3 @@
-## Welcome to GitHub Pages
-You can use the [editor on GitHub](https://github.com/rhy2781/pagestest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
-
-![image](https://persianmama.com/wp-content/uploads/2015/06/Kabob-Koobideh-1.jpg)
- .
 ### GITHUB IO INTRODUCTION
 [RIT SE website](https://www.rit.edu/computing/department-software-engineering)
 
@@ -14,3 +8,6 @@ My name is Robert Yamasaki, I am currently a first year software engineering stu
 - How software engineers work efficiently together
 - github tutorial pls (using terminal on mac and such)
 - How big projects are split down to make things more efficient
+
+## ONE OF MY FAVORITE FOODS IS MEDITERRANEAN KABOBS
+![image](https://persianmama.com/wp-content/uploads/2015/06/Kabob-Koobideh-1.jpg)
