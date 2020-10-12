@@ -3,7 +3,7 @@ You can use the [editor on GitHub](https://github.com/rhy2781/pagestest/edit/gh-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
 
 
-
+ .
 ### GITHUB IO INTRODUCTION
 [RIT SE website](https://www.rit.edu/computing/department-software-engineering)
 
